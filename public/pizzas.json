@@ -1,0 +1,34 @@
+{
+    "pizzas": [
+        {
+            "name": "Margherita",
+            "calories": 800,
+            "price": 1500,
+            "image": "/margherita.jpg"
+        },
+        {
+            "name": "Pepperoni",
+            "calories": 900,
+            "price": 1700,
+            "image": "/Pepperoni.jpg"
+        },
+        {
+            "name": "Vegetarian",
+            "calories": 700,
+            "price": 1300,
+            "image": "/Vegetarianjpg"
+        },
+        {
+            "name": "BBQ Chicken",
+            "calories": 850,
+            "price": 1600,
+            "image": "/chicken.jpg"
+        },
+        {
+            "name": "Seafood",
+            "calories": 875,
+            "price": 1700,
+            "image": "/Seafoodjpg"
+        }
+    ]
+}
